@@ -1,0 +1,15 @@
+*. Check the code once
+*. Used resources:
+-- link:- https://jonsuh.com/hamburgers/
+-- link:- https://animista.net/play/basic/scale-up/scale-up-bottom
+
+*. Know about "Intersection Observer API" and we also used useRef, Intersecting and many more for phone mockups animation
+    File is ProductShowcase folder
+
+*. Mobile mockups screen changing in mobile scroll check code and video.
+
+Note:- in CredExperience in "className="photo-section-heading experience cred-experience-heading" see if the image is in right order
+        if not then remove cred-experience-heading.
+
+
+CHECK CODE AND VIDEO AGAIN.
